@@ -1,4 +1,4 @@
 # PracticeLLM
 LLM Project from scratch
 <br>
-Author- Chandrakant
+Author- Chandrakant aka ck
